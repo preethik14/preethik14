@@ -4,6 +4,7 @@ Currently, I am working as a Consultant Engineer @ AI & Robotics Technology Park
 
 My research interests include:
 - "Robot Perception and Navigation",
+- "Calibration",
 - "Image Processing",
 - "Biomedical Signal Processing",
 - "3D Medical Image Processing"
