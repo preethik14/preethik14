@@ -1,6 +1,6 @@
 Hi, I’m Preethi Kumar
 
-Currently, I am working as a Consultant Engineer @ AI & Robotics Technology Park, Indian Institute of Science (IISc).
+I am a Research Engineer @ AI & Robotics Technology Park, Indian Institute of Science (IISc).
 
 My research interests include:
 - "Robot Perception and Navigation",
